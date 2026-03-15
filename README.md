@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Halo,%20Saya%20Hadryan!&fontSize=70)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hadryan%20Dimas&fontSize=70)
 
 ## Tentang Saya👋
 - 🎓 Mahasiswa **Teknik Informatika** Institut Teknologi Sepuluh Nopember (Angkatan 2025).
