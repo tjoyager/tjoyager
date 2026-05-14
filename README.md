@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hadryan%20Rizky%20Dimas%20Saputra&fontSize=60)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hadryan%20Dimas&fontSize=60)
 
 ## Tentang Saya 👋
 🎓 Mahasiswa **Teknik Informatika** di Institut Teknologi Sepuluh Nopember (ITS).
