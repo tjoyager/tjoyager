@@ -19,8 +19,8 @@ pronouns: He/Him
 ![ROS](https://img.shields.io/badge/ROS-0A0FF9?style=for-the-badge&logo=ros&logoColor=white)
 
 ### 📊 GitHub Stats
-![Statistik Hadryan](https://github-readme-stats.vercel.app/api?username=tjoyager&show_icons=true&theme=radical)
-![Bahasa Terpopuler](https://github-readme-stats.vercel.app/api/top-langs/?username=tjoyager&layout=compact&theme=radical)
+![Statistik Hadryan](https://github-readme-stats.vercel.app/api?username=tjoyager&show_icons=true&theme=radical&v=1)
+![Bahasa Terpopuler](https://github-readme-stats.vercel.app/api/top-langs/?username=tjoyager&layout=compact&theme=radical&v=1)
 
 ### 📞 Hubungi Saya
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadryandimas/)
