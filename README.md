@@ -3,13 +3,6 @@
 ## Tentang Saya 👋
 🎓 Mahasiswa **Teknik Informatika** di Institut Teknologi Sepuluh Nopember (ITS).
 📍 Berbasis di Surabaya, Indonesia.
-pronouns: He/Him
-
-### 🏢 Kegiatan & Organisasi
-* Staff Programming, **Banyubramanta ITS**
-* Staff Data Coordination, **Schematics ITS**
-* Member, **GDGoC ITS**
-* Member, **Robotic ITS**
 
 ### 🛠 Tech Stack
 ![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
