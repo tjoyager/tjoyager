@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hadryan%20Dimas&fontSize=60)
 
-## Tentang Saya 👋
+## About Me
 Mahasiswa **Teknik Informatika** di Institut Teknologi Sepuluh Nopember (ITS).
 Berbasis di Surabaya, Indonesia.
 
