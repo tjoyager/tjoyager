@@ -1,8 +1,8 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hadryan%20Dimas&fontSize=60)
 
 ## Tentang Saya 👋
-🎓 Mahasiswa **Teknik Informatika** di Institut Teknologi Sepuluh Nopember (ITS).
-📍 Berbasis di Surabaya, Indonesia.
+Mahasiswa **Teknik Informatika** di Institut Teknologi Sepuluh Nopember (ITS).
+Berbasis di Surabaya, Indonesia.
 
 ### 🛠 Tech Stack
 ![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
